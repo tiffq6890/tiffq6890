@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tiffq6890
+- 👀 I’m interested in Manual and Automation Testing
+- 🌱 I’m currently learning Selenium
+- 💞️ I’m looking to collaborate on QA Selenium Porojects 
+- 📫 How to reach me tiffq6890@yahoo.com
